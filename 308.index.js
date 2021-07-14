@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[308],{9308:s=>{"use strict";s.exports=JSON.parse('{"quitSuccess":"Left the queue successfully!","tyForUsing":"Thank you for using"}')}}]);

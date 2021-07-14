@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[955],{6955:s=>{"use strict";s.exports=JSON.parse('{"quitSuccess":"יצאת מהתור בהצלחה!","tyForUsing":"תודה שהשתמשת ב -"}')}}]);

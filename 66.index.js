@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[66],{2066:e=>{"use strict";e.exports=JSON.parse('{"welcomeBack":"Hi {{name}}, good to see you again!","welcome":"Hello {{name}}","welcomeGuest":"Hello guest","noWaiting":"No waiting before you.","waiting":"people before you","yourTicket":"Your number"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[491],{6491:e=>{"use strict";e.exports=JSON.parse('{"delayTurnsLabel":"Places to defer","delayTurnButton":"Defer turn"}')}}]);

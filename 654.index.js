@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[654],{6654:e=>{"use strict";e.exports=JSON.parse('{"phonePrompt":"שנקרא לכם ב SMS? מלאו מספר טלפון","invalidPhone":"מספר טלפון לא תקין","nameLabel":"מה שמך?","phoneLabel":"טלפון","submitButton":"לשמור","errorMessage":"אירעה תקלה. נסה שוב שנית.","successMessage":"תודה רבה, פרטיך נקלטו במערכת","editButton":"לערוך פרטים"}')}}]);

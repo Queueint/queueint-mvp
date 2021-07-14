@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[863],{1863:e=>{"use strict";e.exports=JSON.parse('{"welcomeBack":"היי {{name}}, כיף לראות אותך שוב!","welcome":"שלום {{name}}","welcomeGuest":"שלום אורח","noWaiting":"אין ממתינים לפנייך.","waiting":"אנשים לפנייך","yourTicket":"מספרך בתור"}')}}]);

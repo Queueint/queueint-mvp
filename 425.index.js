@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[425],{425:e=>{"use strict";e.exports=JSON.parse('{"notificationTitle":"{{prefix}}תורך מתקרב","notificationBody":"{{prefix}}יש {{inQueueBeforeMe}} אנשים לפניך, תורך ל {{queueName}} מתקרב, מומלץ להגיע לקרבת מקום.","notificationsButtonPrimary":"הפעל התראות דחיפה","notificationsButtonSecondary":"קבל התראה כשתורך מתקרב"}')}}]);
